@@ -21,4 +21,4 @@
 
 [website]: https://alexgrigoras.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCidS-sTu3QhykD-KG7rjAUw
-[twitter]: https://twitter.com/10Grigoras
+[twitter]: https://twitter.com/alexandru_grigo
