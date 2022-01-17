@@ -18,4 +18,4 @@
 
 [website]: https://alexgrigoras.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCidS-sTu3QhykD-KG7rjAUw
-[twitter]: https://twitter.com/alexandru_grigo
+[twitter]: https://twitter.com/alexgrigoras0
