@@ -1,23 +1,20 @@
-### 
+### Hello! 
 
-### Hello! You can find me at 📫
+### Contact 📫
 [![alexgrigoras profile](https://img.shields.io/github/followers/alexgrigoras?label=Follow%20Me&style=flat-square)](https://github.com/alexgrigoras)
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="YouTube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br/>
 
-### Statistics ⚡
+### Open-Source Projects 🚧
 
-<details>
-  <summary>Github Statistics</summary>
-  <img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexgrigoras&show_icons=true&hide_border=true" />
-</details>
+- [Khyron Realm](https://github.com/khyron-realm) - Mobile MMO Game
+- [Liquid](https://github.com/liquid-printer) - 3D Printer
 
-<details>
-  <summary>Programming Languages</summary>
-  <img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgrigoras&langs_count=8" />
-</details>
+### Stats ⚡
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgrigoras)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://alexgrigoras.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCidS-sTu3QhykD-KG7rjAUw
