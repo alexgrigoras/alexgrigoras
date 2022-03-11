@@ -7,6 +7,10 @@
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br/>
 
+### Projects 🚧
+
+- [runus](https://github.com/runus-inc) - Runus Blockchain Reports
+
 ### Open-Source Projects 🚧
 
 - [Khyron Realm](https://github.com/khyron-realm) - Mobile MMO Game
