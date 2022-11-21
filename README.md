@@ -1,4 +1,4 @@
-### Hello! 
+## Hello
 
 ### Experience 💼
 
@@ -22,7 +22,7 @@
 |  | [thread_pool_executor](https://github.com/alexgrigoras/thread_pool_executor) |  |  |  |  |
 |  | [web_crawler](https://github.com/alexgrigoras/web_crawler) |  |  |  |  |
 
-### Skills
+### Skills 🎯
 
 Machine Learning • Computer Vision • Artificial Intelligence • Data Science
 
@@ -40,20 +40,10 @@ Web Development • Game Development • Project Management
 Linux  • Blockchain • 3D Printing
 
 ### Contact 📫
+
 [<img align="left" alt="LinkedIn | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Medium | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="YouTube | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br/>
-
-### Stats ⚡
-
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgrigoras)](https://github.com/anuraghazra/github-readme-stats)
-
-[linkedin]: https://www.linkedin.com/in/alexgrigoras0/
-[twitter]: https://twitter.com/alexgrigoras0
-[medium]: https://medium.com/@alexgrigoras
-[youtube]: https://www.youtube.com/channel/UCidS-sTu3QhykD-KG7rjAUw
-[website]: https://alexgrigoras.github.io/portfolio/
