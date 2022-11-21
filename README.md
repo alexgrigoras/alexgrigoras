@@ -46,4 +46,7 @@ Linux  • Blockchain • 3D Printing
 [<img align="left" alt="Medium | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="YouTube | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br/>
+ [linkedin]: https://www.linkedin.com/in/alexgrigoras0/
+ [twitter]: https://twitter.com/alexgrigoras0
+ [medium]: https://medium.com/@alexgrigoras
+ [youtube]: https://www.youtube.com/channel/UCidS-sTu3QhykD-KG7rjAUw
